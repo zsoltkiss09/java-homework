@@ -57,3 +57,6 @@ public class Employee {
         return gender;
     }
 }
+// Creeaza metoda AddEmploye / UPDATE / REMOVe
+
+// Operatii cu getter/setter
